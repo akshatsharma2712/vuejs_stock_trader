@@ -1,6 +1,6 @@
 # vue-cli
 
-> A Vue.js project
+> A  Basic Vue.js project having a databse on firebase.
 
 ## Build Setup
 
